@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<html>
+<body>
+
+<h1>Welcome to the MIB Official Website</h1>
+
+<p>In order to enter, you must enter the following</p>
+	<ol>First name</ol>
+	<ol>Last name</ol>
+	<ol>Birthday</ol>
+	<ol>Email</ol>
+	<ol>Phone Number</ol>
+
+<form>
+First name: <input type="text" name="firstname"><br>
+Last name: <input type="text" name="lastname">
+</form>
+
+</body>
+</html>
